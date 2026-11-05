@@ -1,0 +1,7 @@
+/*
+  The previous App.css was the default Vite starter file (#root max-width,
+  centered text, 2rem padding, logo spin). App.tsx does not import it, but if
+  main.tsx does, it squeezes every section into a 1280px centered column.
+  Delete this file and remove any `import './App.css'`. All styling lives in
+  index.css and Tailwind.
+*/

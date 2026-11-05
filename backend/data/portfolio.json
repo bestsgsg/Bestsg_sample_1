@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "category": "ecommerce",
+    "description": "A full-featured e-commerce platform with payment integration",
+    "images": ["member-1765630017008.png", "member-1765630370400.jpeg"],
+    "tech": ["React", "Node.js", "MongoDB", "Stripe"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com/user/repo",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Mobile Fitness App",
+    "category": "mobile",
+    "description": "Cross-platform fitness tracking app",
+    "images": ["member-1765630495805.jfif"],
+    "tech": ["React Native", "Firebase", "Redux"],
+    "liveUrl": "",
+    "githubUrl": "https://github.com/user/fitness",
+    "featured": false
+  }
+]
